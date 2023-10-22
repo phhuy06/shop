@@ -1,3 +1,0 @@
-mobile: <= 740px
-tablet: <= 1024px: width: 644px
-pc: > 1024px -> 1240px: width: 984px
